@@ -30,7 +30,7 @@ class MyApp {
         this.platform = platform;
 
         this.pages = [
-            {title: 'Welcome', component: WelcomePage, icon: "bookmark"},
+            {title: 'Welcome_1', component: WelcomePage, icon: "bookmark"},
             {title: 'Properties', component: PropertyListPage, icon: "home"},
             {title: 'Brokers', component: BrokerListPage, icon: "people"},
             {title: 'Favorites', component: FavoriteListPage, icon: "star"}
